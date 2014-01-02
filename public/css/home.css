@@ -1,0 +1,9 @@
+.classysocial.bubble {
+    display: block;
+    width: 72px;
+    height: 72px;
+    position: relative;
+    left: 50%;
+    top: 50%;
+    z-index: 1;
+}
